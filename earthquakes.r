@@ -1,11 +1,11 @@
-######################################################
-## PROOF SET DATASET - U.S.MINT - DATA SCIENTIST POS##
-## Author:                      Ricardo Zambrano    ##
-## Version:                     0.1                 ##
-## Date Created:                May/24/2022         ##
-## Most Recent Review Date:     May/24/2022         ##
-## Rationale:                   Current Version     ##
-######################################################
+#######################################################
+## EARTHQUAKES DATA - STATE DEPT - DATA SCIENTIST POS##
+## Author:                      Ricardo Zambrano     ##
+## Version:                     0.1                  ##
+## Date Created:                Jun/27/2022          ##
+## Most Recent Review Date:     Jun/28/2022          ##
+## Rationale:                   Current Version      ##
+#######################################################
 
 ###############
 ## LIBRARIES ##
